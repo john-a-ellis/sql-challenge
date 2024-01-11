@@ -1,7 +1,7 @@
 # SQL-Challenge
-Module 9 Challenge Assignment
-Submitted by:John Ellis
-This assignment consists of the following files:
+Module 9 Challenge Assignment  
+Submitted by:John Ellis  
+This assignment consists of the following files:  
 ## Root Folder
 - README.md - This file
 - .gitingore
