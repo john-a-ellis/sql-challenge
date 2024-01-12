@@ -1,7 +1,7 @@
 # SQL-Challenge
 Module 9 Challenge Assignment  
 Submitted by:John Ellis  
-All Files are found in the 'Main' branch
+All Files are found in the 'Main' branch  
 This assignment consists of the following files:  
 ## Root Folder
 - README.md - This file
